@@ -1,0 +1,1 @@
+Robô iCal Booking corrigido e pronto para deploy.
